@@ -8,7 +8,7 @@ With information extracted, I analyzed data to answer below questionns.
 1.How dog food products on Chewy.com are doing over the past few years based on customer reviews?
 2.How can reviews get better?
 
-For more detail, please welcome to read my blogs: 
+For more detail, please feel free to read my blogs: 
 https://nycdatascience.com/blog/author/huimin-ou/
 
 Huimin's Linkedin: 
